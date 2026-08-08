@@ -1,5 +1,5 @@
 %global tl_name l3kernel-dev
-%global tl_revision 79718
+%global tl_revision 79878
 
 Name:		texlive-%{tl_name}
 Version:	%{tl_revision}
